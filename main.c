@@ -5,5 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	printf("Hi");
+	printf("Go foward from master branch");
 	return 0;
 }
